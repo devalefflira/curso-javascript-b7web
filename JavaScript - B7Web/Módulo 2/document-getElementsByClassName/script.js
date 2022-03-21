@@ -1,0 +1,1 @@
+document.getElementsByClassName('list')[0].innerHTML = "Dez";
